@@ -1,0 +1,43 @@
+---
+import Section from '@/components/Section.astro'
+
+import { languages } from 'resume.json'
+---
+
+<Section title="Languages">
+
+    <ul>
+        {
+            languages.map(({ language,fluency }) => (
+                <li>
+                    <span>{language}:</span>
+                    <span>{fluency}</span>
+                </li>
+            ))
+        }
+    </ul>
+
+</Section>
+
+<style>
+    ul {
+        display: inline-flex;
+        gap: 8px;
+        flex-wrap: wrap;
+    }
+
+    li {
+        border-radius: 6px;
+        background: #d1d0d0;
+        color: black;
+        font-size: 0.8rem;
+        font-weight: 500;
+        padding: 0.2rem 0.6rem;
+    }
+
+    @media print {
+        li {
+            -webkit-print-color-adjust: exact; /* Asegura que los colores se impriman como se ven en pantalla */
+        }
+    }
+</style>

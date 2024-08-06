@@ -1,0 +1,90 @@
+---
+import Section from '@/components/Section.astro'
+
+import { certificates } from 'resume.json'
+---
+
+<Section title="Certificates">
+
+    <ul>
+        {certificates.map(({name, date, issuer, url, img}) => {
+
+            return (
+                <li>
+                    <article>
+                        <header>
+                            <div>
+                                <h3>
+                                    <a href={url} title={`See ${name} certificate `}>
+                                    {name}
+                                </a>
+                                </h3>
+                            </div>
+                            <figure>
+                                <img src={img} alt={name} />
+                            </figure>
+                        </header>
+                        <footer>
+                            <time>{date}</time>
+                        </footer>
+                    </article>
+                    
+                </li>
+            )
+        })}
+    </ul>
+    
+</Section>
+
+<style>
+    ul {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(225px, 1fr));
+        gap: 1rem;
+        
+    }
+
+    
+    article {
+        border-radius: 10px;
+        border: 1px solid #f2f2f2;
+        gap: 10px;
+        display: flex;
+        flex-direction: column;
+        padding-block: 8px;
+        height: 100%;
+    }
+
+    article h3 {
+        margin-bottom: 10px;
+        font-size: 15px;
+        text-align: center;
+    }
+
+    article a {
+        color: #474343;
+    }
+
+    article a:hover {
+        text-decoration: underline;
+    }
+
+    figure {
+        display: flex;
+        justify-content: center;
+    }
+
+    img {
+        object-fit: cover;
+        width: 110px;
+    }
+
+    footer {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 4px;
+        font-size: 0.7rem;
+    }
+
+</style>

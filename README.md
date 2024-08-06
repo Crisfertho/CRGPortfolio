@@ -1,3 +1,11 @@
+Schema JSON de resume:
+https://jsonresume.org/schema/
+
+Basado en el diseño de:
+https://github.com/BartoszJarocki/cv
+
+
+
 # Astro Starter Kit: Basics
 
 ```sh

@@ -1,0 +1,92 @@
+---
+import Section from '@/components/Section.astro'
+
+import { education, complementary, } from "resume.json"
+
+---
+
+<Section title="Education">
+
+    <ul>
+        {education.map(({ institution,area, studyType, startDate, endDate, url, courses}) => {
+            const startdate = new Date(startDate).getFullYear()
+            const enddate = endDate != null ? new Date(endDate).getFullYear() : null
+            const date = `${startdate} - ${enddate}`
+
+            return (
+                <li>
+                    <article>
+                        <header>
+                            <div>
+                                <h3>{institution}</h3>
+                            </div>
+                            <time>{date}</time>
+                        </header>
+                        <footer>
+                            <p>{`${studyType} ${area}.`}</p>
+                        </footer>
+                    </article>
+                    
+                </li>
+            )
+        })}
+    </ul>
+    
+</Section>
+
+<Section title="Complementary Education">
+
+    <ul>
+        {complementary.map(({ institution,area, studyType, startDate, endDate, url, courses}) => {
+            const startdate = new Date(startDate).getFullYear()
+            const enddate = endDate != null ? new Date(endDate).getFullYear() : null
+            const date = endDate ? `${startdate} - ${enddate}` : `${startdate}`
+
+            return (
+                <li>
+                    <article>
+                        <header>
+                            <div>
+                                <h3>{institution}</h3>
+                            </div>
+                            <time>{date}</time>
+                        </header>
+                        <footer>
+                            <p>{`${studyType} ${area}.`}</p>
+                        </footer>
+                    </article>
+                    
+                </li>
+            )
+        })}
+    </ul>
+    
+</Section>
+
+<style>
+    li {
+     display: flex;
+     flex-direction: column;
+     gap: 32px;
+    }
+ 
+    article h3 {
+     font-weight: 500;
+     color: #111;
+     margin-top: 5px;
+     margin-bottom: 1px;
+     font-size: 1.1rem;
+    }
+ 
+    header {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     margin-bottom: 1.2px;
+    }
+ 
+    time {
+     color: #777676;
+     font-size: 0.80rem;
+    }
+ </style>

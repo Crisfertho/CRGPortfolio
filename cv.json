@@ -1,0 +1,317 @@
+{
+    "basics": {
+      "name": "Cristhofer Rivera Gómez",
+      "label": "Desarrollador Web, Full Stack, Redes.",
+      "image": "/meyo.webp",
+      "email": "cristhofer.rg06@gmail.com",
+      "phone": "(506) 6086-5218",
+      "url": "",
+      "summary": "Soy una persona proactiva enfocada en mejorar cada día. Mi enfoque académico me ha permitido adquirir habilidades y conocimientos en áreas como desarrollo de software, análisis de sistemas, consultoría en TI, seguridad informática y gestión de proyectos. A través de mi educación, he obtenido una comprensión de cómo la tecnología puede mejorar la eficiencia, la innovación y la toma de decisiones en las organizaciones.",
+      "location": {
+        "address": "Barrio San Isidro, frente al pozo el AYA",
+        "postalCode": "50201",
+        "city": "Nicoya, Guanacaste",
+        "countryCode": "CR",
+        "region": "Costa Rica"
+      },
+      "profiles": [{
+        "network": "GitHub",
+        "username": "Crisfertho",
+        "url": "https://github.com/Crisfertho"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Cristhofer Rivera Gómez",
+        "url": "https://www.linkedin.com/in/cristhofer-riverag92/"
+      },
+      {
+        "network": "Instagram",
+        "username": "cristhoferrg06",
+        "url": "https://www.instagram.com/cristhoferrg06/"
+      }
+      ]
+    },
+    "work": [{
+      "name": "Listica",
+      "position": "Pasantía como Desarrollador Frontend",
+      "url": "https://listica.com/",
+      "startDate": "2022-09-06",
+      "endDate": "2022-12-08",
+      "summary": "Desarrollador frontend utilizando herramientas como Bootstrap, CSS, HTML, React Redux y Git. Aplicación de Clean Code y metodología Scrum.",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [
+      {
+        "institution": "Liceo de Nicoya",
+        "url": "https://www.liceodenicoya.ed.cr/",
+        "area": "Educación Media",
+        "studyType": "",
+        "startDate": "2005-02-07",
+        "endDate": "2009-12-11",
+        "score": "",
+        "courses": [""]
+      },
+      {
+      "institution": "Universidad de Costa Rica",
+      "url": "https://www.ucr.ac.cr/",
+      "area": "Informática Empresarial",
+      "studyType": "Bachillerato ",
+      "startDate": "2016-03-08",
+      "endDate": "2023-07-22",
+      "score": "7.50",
+      "courses": [
+        "Programación, Estadística para Informáticos, Sistemas Operativos, Introducción a los Sistemas de Información", "Arquitectura de Computadores, Algoritmos y Estructuras de Datos, Gestión de Bases de Datos, Redes y Comunicaciones de Datos", "Economía de Computadores, Ingeniería de Software, Auditoría de TI, Gestión de Proyectos", "Lógica para Informáticos, Estructuras Matemáticas Discretas, Cálculo Diferencial e Integral, Álgebra Lineal, Métodos Numéricos"
+      ]
+    }],
+    "complementary": [{
+      "institution": "INA",
+      "url": "https://www.ina.ac.cr/SitePages/Inicio.aspx",
+      "area": "Inglés",
+      "studyType": "Básico",
+      "startDate": "2011",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Univerdidad Politecnica Internacional",
+      "url": "https://www.upi.ac.cr/",
+      "area": "Especialista en Telecomunicaciones e Inglés Intermedio",
+      "studyType": "Técnico",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "INA",
+      "url": "https://www.ina.ac.cr/SitePages/Inicio.aspx",
+      "area": "Relaciones Humanas y Manejo de Conflictos",
+      "studyType": "",
+      "startDate": "2015",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Udemy",
+      "url": "https://www.udemy.com/course/hacking-etico-con-kali-linux/",
+      "area": "Hackin Ético con Kali Linux",
+      "studyType": "Curso",
+      "startDate": "2024",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [
+      {
+        "name": "Fundamentos de Python 1",
+        "date": "2023-07-30",
+        "issuer": "CISCO Networking Academy",
+        "img": "/python1.webp",
+        "url": "https://www.credly.com/badges/4b5e6cc0-8157-48e2-98b2-ab27ce3db1b2"
+      },
+      {
+        "name": "Introducción a la Ciberseguridad",
+        "date": "2023-08-04",
+        "issuer": "CISCO Networking Academy",
+        "img": "/introduction-cybersecurity.webp",
+        "url": "https://www.credly.com/badges/d2ae8046-843b-43e4-b7cb-828c768c8e48"
+      },
+      {
+        "name": "Introducción a la Ciencia de Datos ",
+        "date": "2023-08-23",
+        "issuer": "CISCO Networking Academy",
+        "img": "/introduction-datascience.webp",
+        "url": "https://www.credly.com/badges/1c2c705d-d11e-4a7c-937a-9b9950536aba"
+      },
+      {
+      "name": "Conceptos básicos de redes",
+      "date": "2023-11-08",
+      "issuer": "CISCO Networking Academy",
+      "img": "/networking-basics.webp",
+      "url": "https://www.credly.com/badges/2db0cfa0-2479-416c-b973-b9f393186ae4"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "HTML",
+      "level": "Junior",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Junior",
+      "keywords": [
+        "CSS"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Junior",
+      "keywords": [
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Entry-Level",
+      "keywords": [
+        "Desarrollo Web"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Entry-Level",
+      "keywords": [
+        "PHP"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Junior",
+      "keywords": [
+        "Node"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Junior",
+      "keywords": [
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Junior",
+      "keywords": [
+        "Git"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Junior",
+      "keywords": [
+        "GitHub"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Entry-Level",
+      "keywords": [
+        "React"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Entry-Level",
+      "keywords": [
+        "Tailwind"
+      ]
+    }
+  ],
+    "languages": [{
+      "language": "Spanish",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "B2"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Máximo Aráuz Vigil",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "CRGBlog",
+      "isActive": false,
+      "startDate": "2024-02-03",
+      "endDate": "2024-02-29",
+      "description": "Primer Proyecto del curso de Desarrollo Web con HTML5, CSS3, JS, AJAX, PHP y MySQL.",
+      "highlights": [
+        "HTML","CSS"
+      ],
+      "url": "https://crgbasicblog.netlify.app/"
+    },
+    {
+      "name": "Juego Sudoku",
+      "isActive": true,
+      "startDate": "2024-03-12",
+      "endDate": "2024-07-19",
+      "description": "Juego de Sudoku basado en el código de Abhishweta Gupta (GitHub), con modificaciones personalizadas mías para hacerlo más interactivo y moderno.",
+      "highlights": [
+        "HTML, CSS, JavaScript, Dark Mode Toggle Button diseñado por CodingTorque.com"
+      ],
+      "url": "https://crg-sudoku-game.vercel.app/"
+    },
+    {
+      "name": "Bienes Raices MVC",
+      "isActive": true,
+      "startDate": "2023-10-28",
+      "endDate": "",
+      "description": "Proyecto de Bienes Raices del curso de Desarrollo Web con HTML5, CSS3, JS, AJAX, PHP y MySQL.",
+      "highlights": [
+        "HTML","SCSS","JavaScript","PHP"
+      ],
+      "url": "https://bienesraicesguanacaste.000webhostapp.com/"
+    },
+    {
+      "name": "Portafolio Minimalista",
+      "isActive": true,
+      "startDate": "2024-02-23",
+      "endDate": "",
+      "description": "Portafolio via JSON, una idea de Bartosz Jarocki y modifcado por el desarrollador Midudev (Proyecto con cambios para aprender Astro).",
+      "highlights": [
+        "HTML","Astro","CSS"
+      ],
+      "url": ""
+    }]
+  }

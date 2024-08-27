@@ -198,13 +198,6 @@
       ]
     },
     {
-      "name": "Python",
-      "level": "Entry-Level",
-      "keywords": [
-        "Desarrollo Web"
-      ]
-    },
-    {
       "name": "PHP",
       "level": "Entry-Level",
       "keywords": [
@@ -240,10 +233,10 @@
       ]
     },
     {
-      "name": "React",
+      "name": "Laravel",
       "level": "Entry-Level",
       "keywords": [
-        "React"
+        "Laravel"
       ]
     },
     {
@@ -251,6 +244,20 @@
       "level": "Entry-Level",
       "keywords": [
         "Tailwind"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Entry-Level",
+      "keywords": [
+        "React"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Entry-Level",
+      "keywords": [
+        "Desarrollo Web"
       ]
     }
   ],
@@ -304,7 +311,7 @@
       "highlights": [
         "HTML","SCSS","JavaScript","PHP"
       ],
-      "url": "https://bienesraicesguanacaste.000webhostapp.com/"
+      "url": "https://wephupa.nyc.dom.my.id/"
     },
     {
       "name": "Minimalist Portfolio",
@@ -316,5 +323,16 @@
         "JavaScript","Astro"
       ],
       "url": "https://crg-minimalist-portfolio.netlify.app/"
+    },
+    {
+      "name": "Guanagram",
+      "isActive": true,
+      "startDate": "2024-08-16",
+      "endDate": "2024-08-25",
+      "description": "Basic Instagram clone with Laravel 11",
+      "highlights": [
+        "PHP","Laravel"
+      ],
+      "url": "https://gostuce.nyc.dom.my.id/login"
     }]
   }

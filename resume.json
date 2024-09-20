@@ -334,5 +334,16 @@
         "PHP","Laravel"
       ],
       "url": "https://gostuce.nyc.dom.my.id/login"
+    },
+    {
+      "name": "FindJobs",
+      "isActive": true,
+      "startDate": "2024-08-30",
+      "endDate": "2024-09-19",
+      "description": "Web to search and find Devs jobs with Laravel 11",
+      "highlights": [
+        "PHP","Laravel","Blade","Axios"
+      ],
+      "url": "https://qutnehu.mnz.dom.my.id/"
     }]
   }

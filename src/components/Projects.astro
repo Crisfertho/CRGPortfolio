@@ -7,7 +7,12 @@ import { projects } from "resume.json"
 <Section title="Projects">
     <ul>
         {
-            projects.map(({ url, description, highlights, name, isActive}) => {
+            projects.map(({ url, description, highlights, name, startDate, endDate, isActive}) => {
+
+                const startdate = new Date(startDate).getFullYear()
+                const enddate = endDate != null ? new Date(endDate).getFullYear() : null
+                const date = endDate ? `${enddate}` : `${startdate}`
+
                 return(
                     <li>
                         <article>
@@ -19,6 +24,7 @@ import { projects } from "resume.json"
                                 {
                                     isActive && <span>&bull;</span>
                                 }
+                                <time>{date}</time>
                                 </h3>
                                 <p>{description}</p>
                             </header>
@@ -58,11 +64,23 @@ import { projects } from "resume.json"
 
     article header {
         flex: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
     }
 
     article h3 {
         margin-bottom: 4px;
         font-size: 18px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    article h3 time {
+    font-size: 0.85rem;
+    color: #555;
+    margin-left: auto;
     }
 
     article a {
@@ -75,6 +93,7 @@ import { projects } from "resume.json"
 
     article h3 span {
         color: #06c903;
+        margin-left: 6px;
     }
 
     article p {

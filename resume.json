@@ -345,5 +345,26 @@
         "PHP","Laravel","Blade","Axios"
       ],
       "url": "https://qutnehu.mnz.dom.my.id/"
+    },
+    {
+      "name": "TakeCareApp",
+      "isActive": true,
+      "startDate": "2024-10-03",
+      "endDate": "2024-10-22",
+      "description": "Personal care app for women and men (beauty Salon) with Laravel 11",
+      "highlights": [
+        "PHP","Laravel","JS","SCSS"
+      ],
+      "url": "https://bufmusa.mnz.dom.my.id/"
+    },
+    {
+      "name": "Fast Food Kiosk",
+      "isActive": true,
+      "startDate": "2024-09-20",
+      "endDate": "2024-10-24",
+      "description": "Fast Food Kiosk made with Laravel and React",
+      "highlights": [
+        "React","PHP","Laravel","JS"
+      ]
     }]
   }

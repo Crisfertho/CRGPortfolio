@@ -161,7 +161,14 @@
       "issuer": "CISCO Networking Academy",
       "img": "/networking-basics.webp",
       "url": "https://www.credly.com/badges/2db0cfa0-2479-416c-b973-b9f393186ae4"
-    }],
+    },
+    {
+    "name": "Scrum Foundation Professional Certification - SFPC™",
+    "date": "2024-10-28",
+    "issuer": "Certiprof",
+    "img": "/scrum-foundation-professional.webp",
+    "url": "https://www.credly.com/badges/fa9a66a3-fc8f-41d0-9b5c-8d5bb284e9a9/public_url"
+  }],
     "publications": [{
       "name": "Publication",
       "publisher": "Company",

@@ -373,5 +373,16 @@
       "highlights": [
         "React","PHP","Laravel","JS"
       ]
+    },
+    {
+      "name": "Nicoya Blue Zone",
+      "isActive": true,
+      "startDate": "2024-11-06",
+      "endDate": "2025-01-10",
+      "description": "Personal project about one of the 5 blue zones in the world, Nicoya, Costa Rica.",
+      "highlights": [
+        "React","HTML","Tailwind","JS"
+      ],
+      "url": "https://nicoya-blue-zone.vercel.app/"
     }]
   }

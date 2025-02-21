@@ -1,16 +1,16 @@
 {
     "basics": {
       "name": "Cristhofer Rivera Gómez",
-      "label": "Desarrollador Web, Full Stack, Redes.",
+      "label": "Desarrollador Web, Full Stack, Redes y Telecomunicaciones.",
       "image": "/meyo.webp",
       "email": "cristhofer.rg06@gmail.com",
       "phone": "(506) 6086-5218",
       "url": "",
       "summary": "Soy una persona proactiva enfocada en mejorar cada día. Mi enfoque académico me ha permitido adquirir habilidades y conocimientos en áreas como desarrollo de software, análisis de sistemas, consultoría en TI, seguridad informática y gestión de proyectos. A través de mi educación, he obtenido una comprensión de cómo la tecnología puede mejorar la eficiencia, la innovación y la toma de decisiones en las organizaciones.",
       "location": {
-        "address": "Barrio San Isidro, frente al pozo el AYA",
-        "postalCode": "50201",
-        "city": "Nicoya, Guanacaste",
+        "address": "",
+        "postalCode": "",
+        "city": "Guanacaste",
         "countryCode": "CR",
         "region": "Costa Rica"
       },
@@ -55,20 +55,10 @@
     }],
     "education": [
       {
-        "institution": "Liceo de Nicoya",
-        "url": "https://www.liceodenicoya.ed.cr/",
-        "area": "Educación Media",
-        "studyType": "",
-        "startDate": "2005-02-07",
-        "endDate": "2009-12-11",
-        "score": "",
-        "courses": [""]
-      },
-      {
       "institution": "Universidad de Costa Rica",
       "url": "https://www.ucr.ac.cr/",
       "area": "Informática Empresarial",
-      "studyType": "Bachillerato ",
+      "studyType": "Bachillerato en",
       "startDate": "2016-03-08",
       "endDate": "2023-07-22",
       "score": "7.50",
@@ -79,8 +69,8 @@
     "complementary": [{
       "institution": "INA",
       "url": "https://www.ina.ac.cr/SitePages/Inicio.aspx",
-      "area": "Inglés",
-      "studyType": "Básico",
+      "area": "Básico",
+      "studyType": "Inglés",
       "startDate": "2011",
       "endDate": "",
       "score": "",
@@ -203,7 +193,7 @@
     },
     {
       "name": "PHP",
-      "level": "Entry-Level",
+      "level": "Junior",
       "keywords": [
         "PHP"
       ]
@@ -252,11 +242,11 @@
     }
   ],
     "languages": [{
-      "language": "Spanish",
-      "fluency": "Native Speaker"
+      "language": "Español",
+      "fluency": "Nativo"
     },
     {
-      "language": "English",
+      "language": "Inglés",
       "fluency": "B1+"
     }],
     "interests": [{
@@ -312,6 +302,60 @@
       "highlights": [
         "HTML","Astro","CSS"
       ],
-      "url": ""
+      "url": "https://crg-minimalist-portfolio.netlify.app/"
+    },
+    {
+      "name": "Guanagram",
+      "isActive": true,
+      "startDate": "2024-08-16",
+      "endDate": "2024-08-25",
+      "description": "Red social de fotos con Laravel 11 (Clone de Instagram).",
+      "highlights": [
+        "PHP","Laravel"
+      ],
+      "url": "https://gostuce.nyc.dom.my.id/login"
+    },
+    {
+      "name": "FindJobs",
+      "isActive": true,
+      "startDate": "2024-08-30",
+      "endDate": "2024-09-19",
+      "description": "Proyecto de búsqueda de empleo para desarrolladores con Laravel 11.",
+      "highlights": [
+        "PHP","Laravel","Blade","Axios"
+      ],
+      "url": "https://qutnehu.mnz.dom.my.id/"
+    },
+    {
+      "name": "TakeCareApp",
+      "isActive": true,
+      "startDate": "2024-10-03",
+      "endDate": "2024-10-22",
+      "description": "Proyecto de aplicación de cuidado personal para mujeres y hombres con Laravel 11.",
+      "highlights": [
+        "PHP","Laravel","JS","SCSS"
+      ],
+      "url": "https://bufmusa.mnz.dom.my.id/"
+    },
+    {
+      "name": "Fast Food Kiosk",
+      "isActive": true,
+      "startDate": "2024-09-20",
+      "endDate": "2024-10-24",
+      "description": "Proyecto de sistema de pedidos de comida rápida con Laravel 11 y React.",
+      "highlights": [
+        "React","PHP","Laravel","JS"
+      ]
+    },
+    {
+      "name": "Nicoya Zona Azul",
+      "isActive": true,
+      "startDate": "2024-11-06",
+      "endDate": "2025-01-10",
+      "description": "Proyecto de sitio web para la promoción de la Zona Azul de Nicoya, Guanacaste.",
+      "highlights": [
+        "React","HTML","Tailwind","JS"
+      ],
+      "url": "https://nicoya-blue-zone.vercel.app/"
     }]
   }

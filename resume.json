@@ -8,9 +8,9 @@
       "url": "",
       "summary": "I am a proactive person focused on improving every day. My academic approach has allowed me to acquire skills and knowledge in areas such as software development, systems analysis, IT consulting, computer security and project management. Through my education, I have gained an understanding of how technology can improve efficiency, innovation and decision making in organizations.",
       "location": {
-        "address": "Barrio San Isidro, frente al pozo el AYA",
-        "postalCode": "50201",
-        "city": "Nicoya, Guanacaste",
+        "address": "",
+        "postalCode": "",
+        "city": "Guanacaste",
         "countryCode": "CR",
         "region": "Costa Rica"
       },
@@ -54,16 +54,6 @@
       ]
     }],
     "education": [
-      {
-        "institution": "Nicoya High School",
-        "url": "https://www.liceodenicoya.ed.cr/",
-        "area": "Diploma",
-        "studyType": "High School",
-        "startDate": "2005-02-07",
-        "endDate": "2009-12-11",
-        "score": "",
-        "courses": [""]
-      },
       {
       "institution": "University of Costa Rica",
       "url": "https://www.ucr.ac.cr/",

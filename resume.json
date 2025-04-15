@@ -301,7 +301,7 @@
     },
     {
       "name": "Bienes Raices MVC",
-      "isActive": true,
+      "isActive": false,
       "startDate": "2023-10-28",
       "endDate": "",
       "description": "Property sales project from the Web Development course with HTML5, CSS3, JS, AJAX, PHP and MySQL.",
@@ -334,7 +334,7 @@
     },
     {
       "name": "FindJobs",
-      "isActive": true,
+      "isActive": false,
       "startDate": "2024-08-30",
       "endDate": "2024-09-19",
       "description": "Web to search and find Devs jobs with Laravel 11",
@@ -345,7 +345,7 @@
     },
     {
       "name": "TakeCareApp",
-      "isActive": true,
+      "isActive": false,
       "startDate": "2024-10-03",
       "endDate": "2024-10-22",
       "description": "Personal care app for women and men (beauty Salon) with Laravel 11",
@@ -356,7 +356,7 @@
     },
     {
       "name": "Fast Food Kiosk",
-      "isActive": true,
+      "isActive": false,
       "startDate": "2024-09-20",
       "endDate": "2024-10-24",
       "description": "Fast Food Kiosk made with Laravel and React",
@@ -374,5 +374,16 @@
         "React","HTML","Tailwind","JS"
       ],
       "url": "https://nicoya-blue-zone.vercel.app/"
+    },
+    {
+      "name": "HomeWorks",
+      "isActive": false,
+      "startDate": "2024-10-28",
+      "endDate": "2025-04-03",
+      "description": "Gestor de proyectos, para la administración de proyectos y tareas, con fecha de finlaaización y modificaión de estados, hecho con PHP y MySQL.",
+      "highlights": [
+        "PHP","HTML","CSS", "MySql"
+      ],
+      "url": "home-works-crg.mnz.dom.my.id/"
     }]
   }

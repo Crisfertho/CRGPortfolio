@@ -380,7 +380,7 @@
       "isActive": false,
       "startDate": "2024-10-28",
       "endDate": "2025-04-03",
-      "description": "Gestor de proyectos, para la administración de proyectos y tareas, con fecha de finlaaización y modificaión de estados, hecho con PHP y MySQL.",
+      "description": "Project and task management tool, with completion date and status modification, built with PHP and MySQL.",
       "highlights": [
         "PHP","HTML","CSS", "MySql"
       ],

@@ -357,5 +357,16 @@
         "React","HTML","Tailwind","JS"
       ],
       "url": "https://nicoya-blue-zone.vercel.app/"
+    },
+    {
+      "name": "Tienda en Línea",
+      "isActive": true,
+      "startDate": "2024-11-15",
+      "endDate": "",
+      "description": "Proyecto de sitio web para vender productos para el cabello en línea.",
+      "highlights": [
+        "Laravel","HTML","CSS","JS","PHP", "MySQL", "Tailwind","Vue" 
+      ],
+      "url": ""
     }]
   }

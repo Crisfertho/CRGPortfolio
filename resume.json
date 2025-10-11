@@ -384,6 +384,17 @@
       "highlights": [
         "PHP","HTML","CSS", "MySql"
       ],
-      "url": "home-works-crg.mnz.dom.my.id/"
+      "url": "https://home-works-crg.mnz.dom.my.id/"
+    },
+    {
+      "name": "E-commerce",
+      "isActive": true,
+      "startDate": "2024-11-15",
+      "endDate": "",
+      "description": "E-commerce project with Laravel 11, Tailwind CSS, Livewire and MySQL.",
+      "highlights": [
+        "Laravel","HTML","CSS","JS","PHP", "MySQL", "Tailwind","Vue" 
+      ],
+      "url": ""
     }]
   }

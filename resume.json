@@ -31,9 +31,31 @@
       }
       ]
     },
-    "work": [{
-      "name": "Listica",
-      "position": "Internship as Frontend Developer",
+    "work": [ {
+      "name": "Web & Software Developer",
+      "position": "Freelance",
+      "url": "",
+      "startDate": "2024-09-06",
+      "endDate": "",
+      "summary": "Creating an analytical website that uses statistical graphs to show how crime is reflected in Costa Rica.",
+      "highlights": [
+        ""
+      ]
+    }, {
+        "name": "Web & Software Developer",
+      "position": "Freelance",
+      "url": "",
+      "startDate": "2024-01-24",
+      "endDate": "2025-10-13",
+      "summary": ["Created an online store for hair care products using Laravel, VUE, Tailwind CSS, Livewire, and MySQL.",
+                  "Created a personal project about one of the 5 blue zones in the world, Nicoya, Costa Rica, with React, Tailwind CSS and JS."
+                ],
+      "highlights": [
+        ""
+      ]
+      }, {
+      "name": "Fullstack Web Developer",
+      "position": "Internship as Frontend Developer at Listica ",
       "url": "https://listica.com/",
       "startDate": "2022-09-06",
       "endDate": "2022-12-08",
@@ -41,7 +63,23 @@
       "highlights": [
         "Started the company"
       ]
-    }],
+      },
+      
+      {
+        "name": "Network and telecommunications technician",
+        "position": "Internship as Telecomunications Technician at San Pablo de Heredia Municipality ",
+        "url": "",
+        "startDate": "2013-09-01",
+        "endDate": "2013-11-09",
+        "summary": ["Provided technical support for telecommunications hardware and software issues.",
+                    "Maintained and updated telecommunications systems and networks.",
+                    "Assisted in troubleshooting and resolving telecommunications problems."
+                  ],
+        "highlights": [
+          ""
+        ]
+      }
+    ],
     "volunteer": [{
       "organization": "Organization",
       "position": "Volunteer",

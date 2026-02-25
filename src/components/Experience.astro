@@ -10,8 +10,9 @@ import { work } from 'resume.json'
     <ul>
         {work.map(({ name, startDate, endDate, position, summary, url, highlights}) => {
             const startdate = new Date(startDate).toLocaleDateString()
-            const enddate = endDate != null ? new Date(endDate).toLocaleDateString() : null
+            const enddate = endDate ? new Date(endDate).toLocaleDateString() : "Working..."
             const date = `${startdate} - ${enddate}`
+            
 
             return (
                 <li>

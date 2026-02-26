@@ -234,9 +234,44 @@
     },
     {
       "name": "PHP",
-      "level": "Entry-Level",
+      "level": "Junior",
       "keywords": [
         "PHP"
+      ]
+    },
+    {
+      "name": "Laravel",
+      "level": "Junior",
+      "keywords": [
+        "Laravel"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Junior",
+      "keywords": [
+        "MySQL"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Junior",
+      "keywords": [
+        "React"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Junior",
+      "keywords": [
+        "Astro"
+      ]
+    },
+    {
+      "name": "Vue",
+      "level": "Entry-Level",
+      "keywords": [
+        "Desarrollo Web"
       ]
     },
     {
@@ -246,12 +281,12 @@
         "Node"
       ]
     },
-    {
-      "name": "MySQL",
-      "level": "Junior",
+    {      "name": "Python",
+      "level": "Entry-Level",
       "keywords": [
-        "MySQL"
+        "Livewire"
       ]
+
     },
     {
       "name": "Git",
@@ -268,32 +303,24 @@
       ]
     },
     {
-      "name": "Laravel",
-      "level": "Entry-Level",
-      "keywords": [
-        "Laravel"
-      ]
-    },
-    {
       "name": "Tailwind",
-      "level": "Entry-Level",
+      "level": "Junior",
       "keywords": [
         "Tailwind"
       ]
     },
-    {
-      "name": "React",
-      "level": "Entry-Level",
+    {      "name": "Bootstrap",
+      "level": "Junior",
       "keywords": [
-        "React"
+        "Bootstrap"
       ]
     },
     {
-      "name": "Python",
-      "level": "Entry-Level",
+      "name": "Sass",
+      "level": "Junior",
       "keywords": [
-        "Desarrollo Web"
-      ]
+        "CSS"
+      ] 
     }
   ],
     "languages": [{
@@ -361,7 +388,7 @@
     },
     {
       "name": "Guanagram",
-      "isActive": true,
+      "isActive": false,
       "startDate": "2024-08-16",
       "endDate": "2024-08-25",
       "description": "Basic Instagram clone with Laravel 11",
@@ -379,7 +406,7 @@
       "highlights": [
         "PHP","Laravel","Blade","Axios"
       ],
-      "url": "https://qutnehu.mnz.dom.my.id/"
+      "url": "https://crg-findjobs.mnz.dom.my.id/"
     },
     {
       "name": "TakeCareApp",
@@ -401,6 +428,17 @@
       "highlights": [
         "React","PHP","Laravel","JS"
       ]
+    },
+    {
+      "name": "Personal Portfolio",
+      "isActive": true,
+      "startDate": "2024-10-25",
+      "endDate": "2025-01-10",
+      "description": "Personal portfolio project with Astro, Tailwind CSS and JavaScript.",
+      "highlights": [
+        "Astro","Tailwind","JS"
+      ],
+      "url": "https://cristhoferrg92.netlify.app/"
     },
     {
       "name": "Nicoya Blue Zone",
@@ -425,14 +463,14 @@
       "url": "https://home-works-crg.mnz.dom.my.id/"
     },
     {
-      "name": "E-commerce",
+      "name": "Online Store",
       "isActive": true,
       "startDate": "2024-11-15",
-      "endDate": "",
-      "description": "E-commerce project with Laravel 11, Tailwind CSS, Livewire and MySQL.",
+      "endDate": "2025-10-30",
+      "description": "Online store project with Laravel and Vue , Tailwind CSS, Livewire and MySQL.",
       "highlights": [
         "Laravel","HTML","CSS","JS","PHP", "MySQL", "Tailwind","Vue" 
-      ],
-      "url": ""
+      ]
+      
     }]
   }

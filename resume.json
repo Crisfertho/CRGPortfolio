@@ -154,6 +154,18 @@
       "courses": [
         ""
       ]
+    },
+    {
+      "institution": "Udemy",
+      "url": "https://www.udemy.com/course/hacking-etico-con-kali-linux/",
+      "area": "Web Development with HTML5, CSS3, JS, AJAX, PHP and MySQL",
+      "studyType": "Course",
+      "startDate": "2024",
+      "endDate": "2026",
+      "score": "",
+      "courses": [
+        ""
+      ]
     }],
     "awards": [{
       "title": "Award",

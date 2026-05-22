@@ -31,17 +31,7 @@
       }
       ]
     },
-    "work": [ {
-      "name": "Web & Software Developer",
-      "position": "Freelance",
-      "url": "",
-      "startDate": "2024-09-06",
-      "endDate": "",
-      "summary": "Creating an analytical website that uses statistical graphs to show how crime is reflected in Costa Rica.",
-      "highlights": [
-        ""
-      ]
-    }, {
+    "work": [  {
         "name": "Web & Software Developer",
       "position": "Freelance",
       "url": "",
